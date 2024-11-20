@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SentryX<br><br>🌱 I’m currently learning Java & HTML & CSS<br><br>🧧 I’m looking to collaborate on Any Minecraft Plugins!<br><br>🤝 I’m looking for help with Anything Java related<br><br>👨‍💻 All of my projects are available at https://github.com/5RoD<br><br>📝 I regularly talk on https://discord.gg/z6WgSZTyDU<br><br>💬 Ask me about Everything java related :D<br><br>📫 How to reach me 5rod@gravemc.net<br><br>⚡ Fun fact Java was originally named Oak, after the tree outside James Gosling's (one of the creators of Java) window. Later, it was renamed Java because of trademark issues.
+🔭 I’m currently working on SentryX<br><br>🌱 I’m currently learning Java & HTML & CSS & MYSQL & PHP & Javascript<br><br>🧧 I’m looking to collaborate on Any Minecraft Plugins!<br><br>🤝 I’m looking for help with Anything Java related<br><br>👨‍💻 All of my projects are available at https://github.com/5RoD<br><br>📝 I regularly talk on https://discord.gg/z6WgSZTyDU<br><br>💬 Ask me about Everything java related :D<br><br>📫 How to reach me 5rod@gravemc.net<br><br>⚡ Fun fact Java was originally named Oak, after the tree outside James Gosling's (one of the creators of Java) window. Later, it was renamed Java because of trademark issues.
 
 
 ## 🌐 Socials:
