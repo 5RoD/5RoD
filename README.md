@@ -1,8 +1,21 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<h2 align="center">Hi 👋! My name is 5RoD and I'm a ..., from the 🇳🇱</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5rod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5rod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdkajQ4MGduYWpwYTRzcXpnZDc0djRsMjIybTQ2aW5zdW5oYnV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/drAF4QIu88UpDUIUT5/giphy.gif"  />
 
 ###
 
@@ -55,5 +68,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/5rod/5rod/output/snake.svg" alt="Snake animation" />
 
 ###
