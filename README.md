@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5rod&label=Profile%20views&color=5686a4&style=plastic" alt="5rod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5rod" alt="5rod" /></a> </p>
-
 - 🔭 I’m currently working on [BLD](https://github.com/5RoD/BLD)
 
 - 🌱 I’m currently learning **C#, Java, Javascript, PHP, MYSQL, and more..**
