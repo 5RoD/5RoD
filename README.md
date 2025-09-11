@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5rod&label=Profile%20views&color=5686a4&style=plastic" alt="5rod" /> </p>
 
-- 🔭 I’m currently working on [BLD](https://github.com/5RoD/BLD)
+- 🔭 I’m currently working on [DupeWatch private repo]
 
 - 🌱 I’m currently learning **C#, Java, Javascript, PHP, MYSQL, and more..**
 
