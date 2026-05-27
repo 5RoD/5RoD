@@ -13,7 +13,6 @@
 
 - 📝 I regularly talk on my discord [http://gravemc.net/discord](http://gravemc.net/discord)
 
-- 📫 How to reach me **5rod@gravemc.net**
 
 - ⚡ Fun fact **The first website ever created (http://info.cern.ch/ ) is still online! It’s a living piece of internet history.**
 
