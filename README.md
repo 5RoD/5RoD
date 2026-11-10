@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="5RoD terminal profile. YouTube channel avatar in ASCII. Location: NL. Minecraft plugins, web tools, and YouTube." />
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@5rod">YouTube</a> ·
   <a href="https://gravemc.net">GraveMC</a> ·
   <a href="https://discord.gg/z6WgSZTyDU">Discord</a> ·
